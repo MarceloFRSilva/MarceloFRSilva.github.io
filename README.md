@@ -1,2 +1,2 @@
 # WebSite
-This is the tutoring web site
+This is the CTF web site
