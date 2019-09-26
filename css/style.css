@@ -630,7 +630,7 @@ h1, h2, h3, h4, h5, h6 {
 .testimony-entry .feed-bubble {
   padding: 30px;
   margin-bottom: 20px;
-  background: #3ec483;
+  background: #45b5ff;
   position: relative;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
@@ -1472,7 +1472,7 @@ ADDED
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #FF9000;
+  background-color: #45b5ff;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -1606,7 +1606,7 @@ ADDED
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #45b5ff;
 }
 
 .fh5co-heading {
@@ -1665,7 +1665,7 @@ ADDED
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #FF9000;
+  color: #45b5ff;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -1702,7 +1702,7 @@ ADDED
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #45b5ff;
 }
 
 .info {
