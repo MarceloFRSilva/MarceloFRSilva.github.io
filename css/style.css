@@ -1037,6 +1037,7 @@ h1, h2, h3, h4, h5, h6 {
   transform: rotateZ(45deg);
 }
 
+
 .fh5co-nav-toggle.active i::after {
   bottom: 0;
   -webkit-transform: rotateZ(-45deg);
