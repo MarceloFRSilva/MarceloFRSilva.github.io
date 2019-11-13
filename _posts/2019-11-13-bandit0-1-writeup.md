@@ -64,7 +64,7 @@ Port flag -p <port_number>
 <details>
   <summary>And the printed flag is: </summary>
           
-    $ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+     boJ9jbbUNNfktd78OOpsqOltutMc3MY1
           
 </details>
 
