@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexels/resume-image.jpg"
 tags: [Archive]
 ---
 
