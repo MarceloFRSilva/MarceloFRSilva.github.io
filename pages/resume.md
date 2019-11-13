@@ -77,3 +77,5 @@ At the age of 11 I returned to the pool and I've been swimming ever since.
 I also love to read, code, whatch TV Shows and movies.
 
 I've traveled for 5 different countries besides mine, Portugal. I've been on 3 continents, América, Africa and Europe. I love to travel, to know places and enjoy the view. To meet people and see other cultures. And also to learn.
+
+I've participated in an hackaton, TecStorm 19 in Lisbon. My team reach the final. I was a hard weekend, but it was worth it, we learned things that our courses didn't covered.
