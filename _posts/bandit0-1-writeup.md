@@ -2,7 +2,7 @@
 layout: post
 title: Bandit Level 8 → Level 9
 tags: [Bandit, 3 Bit Squad, CTF]
-author: sylhare
+author: Marcelo Silva
 excerpt_separator: <!--more-->
 ---
 
