@@ -14,8 +14,7 @@ excerpt_separator: <!--more-->
 
 In this post I'll present my solution to the Bandit Level 0. Soon I'll be publishing the solution for Bandit Level 1.
 
-
-
+<!--more-->
 If you want to try it yourself before seeing the solution, here you have the URL:
 
 
