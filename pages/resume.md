@@ -22,7 +22,7 @@ Apart from work, I enjoy sports, reading, whatch series, and code.
 **Master's Degree (2018-2020)**: Information Systems and Computer Engineering (MEIC-A) at Instituto Superior Técnico University of Lisbon
 
 # Professional Experience
-Since I was 18 years old I've been working. 
+In this section I describe briefly my work experience.
 
 ### Internship on InfoSec team at Everis
 (Started at July 2019 and finished on September 2019)
