@@ -63,8 +63,8 @@ Therefore, the final command is:
 
 <details>
   <summary>And the printed flag is: </summary>
-          ```apiblueprint
+          
             boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-          ```
+          
 </details>
 
