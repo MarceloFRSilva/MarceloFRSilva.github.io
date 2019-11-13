@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bandit Level 8 → Level 9
+title: Bandit Level 0 → Level 1
 tags: [Bandit, 3 Bit Squad, CTF]
 author: Marcelo Silva
 img: "assets/img/bandit-image.jpg"
