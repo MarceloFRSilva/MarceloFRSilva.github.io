@@ -17,9 +17,9 @@ Apart from work, I enjoy sports, reading, whatch series, and code.
 
 # Education
 
-**Bachelor's Degree (2015-2018)**: Computer Science and Engineering (LEIC) at Instituto Superior Técnico, University of Lisbon
+* **Bachelor's Degree (2015-2018)**: Computer Science and Engineering (LEIC) at Instituto Superior Técnico, University of Lisbon
 
-**Master's Degree (2018-2020)**: Information Systems and Computer Engineering (MEIC-A) at Instituto Superior Técnico University of Lisbon
+* **Master's Degree (2018-2020)**: Information Systems and Computer Engineering (MEIC-A) at Instituto Superior Técnico, University of Lisbon
 
 # Professional Experience
 In this section I describe briefly my work experience.
