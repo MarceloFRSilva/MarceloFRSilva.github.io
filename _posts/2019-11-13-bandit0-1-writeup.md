@@ -52,7 +52,7 @@ Port flag -p <port_number>
     
     $ ls   -> To display the home folder content
         
-   After this command we find out that we have a readme file, 
+   After this command we find out that we have a **readme** file, 
    to read the content the next command is:
         
     $ cat readme
