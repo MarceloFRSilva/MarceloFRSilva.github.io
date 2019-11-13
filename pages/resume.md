@@ -44,6 +44,35 @@ My work was simple, I had to promote and try to sell their machines. With this j
 
 My job was to inspect fruit and to evaluate it. I learned a lot about working on a team and manage conflicts. I worked in a team and sometimes there was friction between memebers, it was a good way to get a little contact with this reality. It was a nice experience in general.
 
-<!--## Technical Skills-->
+# Technical Skills
+During the both courses, Bachelor and Master's Degree I've learn and developed some skills. However I also did some solo projects for myself.
 
+### Programming Languages
+
+* Java
+* C#
+* C
+* Python
+* Javascript
+* NodeJS
+* SQL 
+
+### Other skills
+
+* Software Security
+* Forensics Cyber-Security
+* Distributed Systems
+* Blockchain
+* Network Security
+* Criptography
+
+# Interesting Facts
+
+I love sports and have been doing them for all my life.
+
+I started as a swimmer but was forced to quit due to medical reasons.
+I then joined karate, which I practiced for 11 years managing to be champion 5 times whan I was young.
+At the age of 11 I returned to the pool and I've been swimming ever since.
+
+I also love to read, code, whatch TV Shows and movies.
 
