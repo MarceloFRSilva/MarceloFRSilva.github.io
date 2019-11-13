@@ -8,7 +8,7 @@ In this post I'll present my solution to the Bandit Level 0. Soon I'll be publis
 If you want to try it yourself before seeing the solution, here you have the URL:
 
 
-https://overthewire.org/wargames/bandit/
+[https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)
 
 
 
@@ -18,7 +18,7 @@ When we start we are presented with the following statement:
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 
-*My solution*
+## *My solution*
 
 
 First we need to know which are the flags that enable us to specify the username and the port.
