@@ -3,8 +3,11 @@ layout: post
 title: Bandit Level 8 → Level 9
 tags: [Bandit, 3 Bit Squad, CTF]
 author: Marcelo Silva
+img: "assets/img/bandit-image.jpg"
 excerpt_separator: <!--more-->
 ---
+
+![image]({{ page.img | relative_url }})
 
 ## Hello everyone!
 
