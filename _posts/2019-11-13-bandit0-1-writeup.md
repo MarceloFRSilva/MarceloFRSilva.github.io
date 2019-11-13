@@ -66,3 +66,6 @@ Port flag -p <port_number>
      {% highlight text %} boJ9jbbUNNfktd78OOpsqOltutMc3MY1 {% endhighlight text %}
 </details>
 
+See you soon, **thank you!**
+Cheers
+*Marcelo Silva*
