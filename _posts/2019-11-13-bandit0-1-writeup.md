@@ -50,12 +50,12 @@ Port flag -p <port_number>
 
    After entering the virtual machine one should do:
     
-        $ ls   -> To display the home folder content
+    $ ls   -> To display the home folder content
         
    After this command we find out that we have a readme file, 
    to read the content the next command is:
         
-        $ cat readme
+    $ cat readme
         
 
 **Careful, I am about to reveal the flag! skip this part if you don't want to know it.**
