@@ -72,7 +72,7 @@ I love sports and have been doing them for all my life.
 
 I started as a **swimmer** but was forced to quit due to medical reasons.
 I then joined **karate**, which I practiced for 11 years managing to be champion 5 times when I was young.
-At the age of 11 I returned to the pool and I've been swimming ever since.
+At the age of 11 I returned to the pool and I've been **swimming** ever since.
 
 I also love to read, code, watch TV Shows and movies.
 
