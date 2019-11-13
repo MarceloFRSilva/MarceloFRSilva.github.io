@@ -24,12 +24,12 @@ Apart from work, I enjoy sports, reading, whatch series, and code.
 # Professional Experience
 In this section I describe briefly my work experience.
 
-### Internship on InfoSec team at Everis
+### Internship - InfoSec team at Everis
 (Started at July 2019 and finished on September 2019)
 
 I was assigned to the InfoSec team. I learned a lot about InfoSec, and what is the function of this team in a company. It was a nice internship and I managed to understand better what I would like to do.
 
-### Intership on Software Engineering team at Accenture
+### Intership - Software Engineering team at Accenture
 (Started at July 2018 and finished on August 2018)
 
 I was assigned to one of the teams and I was responsible for performing JUnit testing on an application, it was interesting and I enjoyed the experience.
