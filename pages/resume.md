@@ -29,7 +29,7 @@ Since I was 18 years old I've been working.
 
 I was assigned to the InfoSec team. I learned a lot about InfoSec, and what is the function of this team in a company. It was a nice internship and I managed to understand better what I would like to do.
 
-### Intership on Software Engineering team at Accenture**
+### Intership on Software Engineering team at Accenture
 (Started at July 2018 and finished on August 2018)
 
 I was assigned to one of the teams and I was responsible for performing JUnit testing on an application, it was interesting and I enjoyed the experience.
