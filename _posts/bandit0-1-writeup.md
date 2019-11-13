@@ -1,4 +1,5 @@
-Hello everyone!
+# Bandit0-1 Writeup
+## Hello everyone!
 
 
 In this post I'll present my solution to the Bandit Level 0. Soon I'll be publishing the solution for Bandit Level 1.
