@@ -70,7 +70,7 @@ During the both courses, Bachelor and Master's Degree I've learned and developed
 
 I've participated in an hackaton, **TecStorm 19** in Lisbon. My team reach the final. I was a hard weekend, but it was worth it, we learned things that our courses didn't covered.
 
-I'm currently creating a CTF Team with 2 friends. We are the [3 Bit Squad](https://3bitsquad.github.io/webpage/).
+I'm currently creating a **CTF Team** with 2 friends. We are the **[3 Bit Squad](https://3bitsquad.github.io/webpage/)**.
 
 I love sports and have been doing them for all my life.
 
