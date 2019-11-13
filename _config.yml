@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/test-website"
-url: "https://marcelofrsilva.github.io/test-website"
+baseurl: ""
+url: "https://marcelofrsilva.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Marcelo Silva                                    # site's title
