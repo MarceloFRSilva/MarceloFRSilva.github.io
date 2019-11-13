@@ -45,7 +45,7 @@ My work was simple, I had to promote and try to sell their machines. With this j
 My job was to inspect fruit and to evaluate it. I learned a lot about working on a team and manage conflicts. I worked in a team and sometimes there was friction between memebers, it was a good way to get a little contact with this reality. It was a nice experience in general.
 
 # Technical Skills
-During the both courses, Bachelor and Master's Degree I've learned and developed some skills. However I also did some projects for myself.
+During the both courses, Bachelor and Master's Degree I've learned and developed some skills. However I also did some projects for myself and I still do, see them [here](https://marcelofrsilva.github.io/portfolio/).
 
 ### Programming Languages
 
