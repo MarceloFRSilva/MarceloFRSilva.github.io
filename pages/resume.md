@@ -13,7 +13,7 @@ tags: [Archive]
 # Brief introduction
 My name is Marcelo Silva I am currently finishing my Master's degree at Instituto Superior Técnico, University of Lisboa. Prior to studying on my Masters, I did my Bachelor's Degree at the same institution. I am currently working on Master Thesis on Blockchain and Security.
 
-Apart from work, I enjoy sports, reading, whatch series, and code.
+Apart from work, I enjoy sports, reading, watch series, and code.
 
 # Education
 
