@@ -41,4 +41,30 @@ Therefore, the final command is:
 
     $ ssh -p 2220 -l bandit0 bandit.labs.overthewire.org
 
-    And then insert the password bandit0
+    
+   And then insert the password bandit0
+
+## *And we are in!*
+    
+    
+
+   After entering the virtual machine one should do:
+    
+        $ ls   -> To display the home folder content
+        
+   After this command we find out that we have a readme file, 
+   to read the content the next command is:
+        
+        $ cat readme
+        
+
+**Careful, I am about to reveal the flag! skip this part if you don't want to know it.**
+
+
+<details>
+  <summary>And the printed flag is: </summary>
+          ```apiblueprint
+            boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+          ```
+</details>
+
