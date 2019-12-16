@@ -4,7 +4,7 @@ title : Tutorials
 permalink: /tutorials/
 subtitle: "My Tutorials" 
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Archive]
+tags: [Tutorials]
 ---
 
 {% include tutorials.html %}
