@@ -4,7 +4,7 @@ title: Cloud Storage System
 img: "assets/img/portfolio/java-image.jpg"
 date: April, 08 2014
 description: Cloud Storage System
-tags: [Portfolio]
+tags: [Tutorials]
 ---
 
 ![image]({{ page.img | relative_url }})
