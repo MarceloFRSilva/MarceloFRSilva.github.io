@@ -7,4 +7,4 @@ feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
 
-{% include blog.html %}
+{% include home.html %}
