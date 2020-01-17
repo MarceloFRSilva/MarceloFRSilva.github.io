@@ -41,7 +41,7 @@ collections:
   tutorials:
     output: true
     permalink: /:collection/:name
-  ctf_solutions:
+  ctfSolutions:
     output: true
     permalink: /:collection/:name  
 
