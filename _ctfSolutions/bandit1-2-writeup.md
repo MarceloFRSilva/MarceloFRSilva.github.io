@@ -5,7 +5,7 @@ author: Marcelo Silva
 description: Bandit Level 1 → Level 2
 img: "assets/img/bandit-image.jpg"
 date: December, 16 2019
-tags: [Bandit, 3 Bit Squad, CTF]
+tags: [Bandit, 3 Bit Squad, CTF Solutions, Writeups]
 ---
 
 ![image]({{ page.img | relative_url }})
