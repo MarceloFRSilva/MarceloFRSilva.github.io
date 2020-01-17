@@ -41,6 +41,9 @@ collections:
   tutorials:
     output: true
     permalink: /:collection/:name
+  ctf_solutions:
+    output: true
+    permalink: /:collection/:name  
 
 # BUILD SETTINGS
 markdown: kramdown
