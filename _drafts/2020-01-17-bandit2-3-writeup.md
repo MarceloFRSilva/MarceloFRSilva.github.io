@@ -1,6 +1,5 @@
 Hello everyone!
 
-
 In this post I'll present my solution to the Bandit Level 2. Soon I'll be publishing the solution for Bandit Level 3.
 
 
