@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Bandit Level 0 → Level 1
-tags: [Bandit, 3 Bit Squad, CTF Solutions, Writeups]
+description: Bandit Level 0 → Level 1
 author: Marcelo Silva
+date: December, 16 2019
 img: "assets/img/bandit-image.jpg"
-excerpt_separator: <!--more-->
+tags: [Bandit, 3 Bit Squad, CTF Solutions, Writeups]
 ---
 
 ![image]({{ page.img | relative_url }})
