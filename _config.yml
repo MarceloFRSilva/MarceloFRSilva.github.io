@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://marcelofrsilva.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Blog    Marcelo Silva                                    # site's title
+title: Marcelo Silva                                    # site's title
 description: "My personal portfolio and blog"           # used by search engines
 avatar:                                                 # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
