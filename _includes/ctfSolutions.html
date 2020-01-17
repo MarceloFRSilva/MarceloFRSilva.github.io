@@ -1,34 +1,17 @@
-<div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-        {% if post.thumbnail %}
-        <div class="post-img">
-            <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
-                <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
-            </a>
-        </div>
-        {% endif %}
-        <span>
-          <header>
-            <h1>
-              <a aria-label="{{ post.title }}" class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title }}
-              </a>
-            </h1>
-            {% include post_info.html author=post.author date=post.date %}
-          </header>
-          {% if site.excerpt or site.theme_settings.excerpt %}
-              <div class="excerpt">
-                  {% if site.excerpt == "truncate" %}
-                     {{ post.content | strip_html | truncate: '250' | escape }}
-                  {% else %}
-                     {{ post.excerpt | strip_html | escape }}
-                  {% endif %}
-              </div>
-          {% endif %}
-      </span>
+<!-- Tutorials Grid Section -->
+<!-- Images must have 1200x675 pixels -->
+<div class="portfolio-grid">
+    {% for item in site.tutorials %}
+    <div class="portfolio-cell">
+        <a href="{{ item.url | relative_url }}" class="portfolio-link" data-keyboard="true">
+            <div class="caption" title="{{ item.title }}">
+                <div class="caption-content">
+                    <i class="fa fa-search-plus fa-2x"></i>
+                </div>
+            </div>
+            <img src="{{ item.img | relative_url }}" class="" alt="">
+            <h5 style="text-align: center;">{{item.description}}</h5>
+        </a>
     </div>
     {% endfor %}
 </div>
-
-{% include blog_nav.html %}
