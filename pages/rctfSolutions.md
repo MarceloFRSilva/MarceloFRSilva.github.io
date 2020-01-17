@@ -7,5 +7,5 @@ feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Writeups, CTF Solutions]
 ---
 
-{% include ctfSolutions.html %}
+{% include blog.html %}
 
