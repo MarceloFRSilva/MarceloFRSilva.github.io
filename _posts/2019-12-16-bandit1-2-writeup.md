@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 ## Hello everyone!
 
 
-In this post I'll present my solution to the Bandit Level 1. Soon I'll be publishing the solution for Bandit Level 2.
+In this post, I'll present my solution to the Bandit Level 1. Soon I'll be publishing the solution for Bandit Level 2.
 
 <!--more-->
 If you want to try it yourself before seeing the solution, here you have the URL:
@@ -46,14 +46,14 @@ Once inside I did the command:
     
      And the file - appeared.
     
-     In order to open it I did the command:
+     To open it I did the command:
     
      $ cat ./-       
 
 
 
-The command cat - doesn't work because the cat will be wainting for a flag, 
-so in order to escape it we must add ./ before the file name.
+The command cat - doesn't work because the cat will be waiting for a flag, 
+so to escape it we must add ./ before the file name.
     
 **Careful, I am about to reveal the flag! skip this part if you don't want to know it.**
 
