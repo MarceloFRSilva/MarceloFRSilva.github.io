@@ -44,7 +44,7 @@ To enter the level, one must do the command:
 
 
 
-Once inside lets see the home (~) folder's content with the command:
+Once inside let's see the home (~) folder's content with the command:
 
      ~$ ls
 
@@ -58,7 +58,7 @@ Now, let's see the inhere folder's content and move inside it with the command c
 
 
 
-Once in the folder, lets type the command ls again:
+Once in the folder, let's type the command ls again:
 
 
 
