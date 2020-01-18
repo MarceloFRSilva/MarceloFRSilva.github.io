@@ -62,7 +62,7 @@ Let's see the folders content and move inside it with the command cd
 
 
 
-Once in the folder, lets type the command ls again:
+Once in the folder, let's  type the command ls again:
 
 
     ~/inhere$ ls
