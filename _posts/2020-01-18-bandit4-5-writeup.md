@@ -48,13 +48,10 @@ Once inside lets see the home (~) folder's content with the command:
 
      ~$ ls
 
-
      And the folder inhere appeared
 
 
-
 Now, let's see the inhere folder's content and move inside it with the command cd
-
 
 
     ~$ cd inhere/
@@ -68,29 +65,21 @@ Once in the folder, lets type the command ls again:
     ~/inhere$ ls
 
 
-
      And the output we get:
-
 
 
      -file00  -file01  -file02  -file03  -file04  -file05  -file06  -file07  -file08  -file09
 
 
 
-   
-
 As we have on the challenge statement the flag is "stored in the only human-readable file in the inhere directory". 
 
 
     After some search I manage to find a few possible ways to find human-readable files.
 
-   
-
     First I tried to use the ls command with the -h flag:
 
-
     ~/inhere$ ls -h
-
 
     But the output was the same as it was before.
 
@@ -107,9 +96,7 @@ But the output was the same as it was before.
 
     As we can see, the file -file07 is of the type ASCII text, which is human-readable.
 
-
     Afterwards I just typed:
-
 
     ~/inhere$ cat ./-file07 
 
@@ -119,10 +106,7 @@ It is worth mentioning that is another possible command that works, which is:
 
     ~/inhere$ find . -exec file {} +| grep ASCII
 
-
     With the output:
-
-
 
     ./-file07: ASCII text
 
