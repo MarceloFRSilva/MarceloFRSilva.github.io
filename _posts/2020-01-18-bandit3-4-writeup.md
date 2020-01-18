@@ -14,7 +14,7 @@ tags: [Bandit, 3 Bit Squad, CTF]
 ## Hello everyone!
 
 
-In this post I'll present my solution to the Bandit Level 3. Soon I'll be publishing the solution for Bandit Level 4.
+In this post, I'll present my solution to the Bandit Level 3. Soon I'll be publishing the solution for Bandit Level 4.
 
 <!--more-->
 If you want to try it yourself before seeing the solution, here you have the URL:
@@ -55,9 +55,7 @@ Once inside I did the command:
      And the folder inhere appeared
 
 
-
 Let's see the folders content and move inside it with the command cd
-
 
 
     ~$ cd inhere
@@ -67,30 +65,26 @@ Let's see the folders content and move inside it with the command cd
 Once in the folder, lets type the command ls again:
 
 
-
     ~/inhere$ ls
 
     
-     And nothing appeared.
+And nothing appeared.
     
-     Once I saw that the ls command didn't printed anything I thought the file was hidden. 
+Once I saw that the ls command didn't printed anything I thought the file was hidden. 
+To find a hidden folder or file one as to use the ls command with a certain flag:
 
-     In order to find a hidden folder or file one as to use the ls command with a certain flag:
-
-
-
--a,   --all do not ignore entries starting with. (from the ls --help command)
+     -a,   --all do not ignore entries starting with. (from the ls --help command)
+     
      ~/inhere$ ls -a
 
 
-
-     And now we could see a file .hidden
+And now we could see a file .hidden
 
 
      $ cat .hidden     
 
 
-Careful, I am about to reveal the flag! skip this part if you don't want to know it.
+**Careful, I am about to reveal the flag! skip this part if you don't want to know it.**
 
 
 
