@@ -98,3 +98,48 @@ As we have on the challenge statement the flag is "stored in the only human-read
   **So I tried another thing, the file command on all of the files on the inhere directory, I used the file command as it "Determine type of FILEs" according to the file command manual, like so:**
 
 ![GitHub Logo](/images/bandit4image.png)
+
+But the output was the same as it was before.
+
+
+    So I tried another thing, the file command on all of the files on the inhere directory, I used the file command as it "Determine type of FILEs" according to the file command manual, like so:
+
+
+
+
+    As we can see, the file -file07 is of the type ASCII text, which is human-readable.
+
+
+    Afterwards I just typed:
+
+
+
+    ~/inhere$ cat ./-file07 
+
+
+It is worth mentioning that is another possible command that works, which is:
+
+
+    ~/inhere$ find . -exec file {} +| grep ASCII
+
+
+    With the output:
+
+
+
+    ./-file07: ASCII text
+
+
+And after this command the flag appears:
+
+<details>
+  <summary>And the printed flag is: </summary>
+     {% highlight text %} koReBOKuIDDepwhWk7jZC0RTdopnAYKh {% endhighlight text %}
+</details> 
+
+----
+See you soon, **thank you!**  
+Cheers  
+*Marcelo Silva*
+
+
