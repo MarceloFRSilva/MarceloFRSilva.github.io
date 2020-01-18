@@ -64,9 +64,7 @@ Once in the folder, let's type the command ls again:
 
     ~/inhere$ ls
 
-
      And the output we get:
-
 
      -file00  -file01  -file02  -file03  -file04  -file05  -file06  -file07  -file08  -file09
 
