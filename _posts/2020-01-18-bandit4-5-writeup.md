@@ -95,7 +95,7 @@ As we have on the challenge statement the flag is "stored in the only human-read
     But the output was the same as it was before.
 
 
-    ## So I tried another thing, the file command on all of the files on the inhere directory, I used the file command as it "Determine type of FILEs" according to the file command manual, like so:
+  ## So I tried another thing, the file command on all of the files on the inhere directory, I used the file command as it "Determine type of FILEs" according to the file command manual, like so:
 
 ![GitHub Logo](/images/images.jpeg)
 Format: ![Alt Text](url)
