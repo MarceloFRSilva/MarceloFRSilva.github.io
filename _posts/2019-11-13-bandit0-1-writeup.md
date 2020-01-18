@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 ## Hello everyone!
 
 
-In this post I'll present my solution to the Bandit Level 0. Soon I'll be publishing the solution for Bandit Level 1.
+In this post, I'll present my solution to the Bandit Level 0. Soon I'll be publishing the solution for Bandit Level 1.
 
 <!--more-->
 If you want to try it yourself before seeing the solution, here you have the URL:
@@ -31,7 +31,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 ## *My solution*
 
 
-**First we need to know which are the flags that enable us to specify the username and the port.**
+**First, we need to know which are the flags that enable us to specify the username and the port.**
 After some search I manage to find out that the flags are:
 
 Username flag -l <username>
@@ -52,7 +52,7 @@ Port flag -p <port_number>
     
     $ ls   -> To display the home folder content
         
-   After this command we find out that we have a **readme** file, 
+   After this command, we find out that we have a **readme** file, 
    to read the content the next command is:
         
     $ cat readme
