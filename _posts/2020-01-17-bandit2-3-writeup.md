@@ -13,7 +13,7 @@ tags: [Bandit, 3 Bit Squad, CTF]
 
 ## Hello everyone!
 
-In this post I'll present my solution to the Bandit Level 2. Soon I'll be publishing the solution for Bandit Level 3.
+In this post, I'll present my solution to the Bandit Level 2. Soon I'll be publishing the solution for Bandit Level 3.
 
 <!--more-->
 If you want to try it yourself before seeing the solution, here you have the URL:
@@ -49,16 +49,16 @@ Once inside I did the command:
     
      And the file spaces in this filename appeared.
     
-     In order to open it I did the command:
+     To open it I did the command:
     
      $ cat spaces\ in\ this\ filename     
 
 
 
-In order to escape the spaces one as to use the symbol \ its just that really.
+To escape the spaces one as to use the symbol \ its just that.
 
 
-Careful, I am about to reveal the flag! skip this part if you don't want to know it.
+**Careful, I am about to reveal the flag! skip this part if you don't want to know it.**
 
 
 
