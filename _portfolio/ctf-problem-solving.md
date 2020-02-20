@@ -13,6 +13,7 @@ I love to solve problems. Cybersecurity problems and Capture the Flag challenges
 
 Enjoy, I hope you can learn something with me.
 
-Cheers,
-Thank you!
-Marcelo Silva
+----
+**Thank you!**  
+Cheers  
+*Marcelo Silva*
