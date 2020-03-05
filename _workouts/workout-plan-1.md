@@ -14,7 +14,7 @@ tags: [Workouts]
 
 ## Welcome
 
-As I mention in my CV I love sports. I've been practicing sports since I was a young boy. Nowadays I am just swimming and doing Calisthenics, which is bodyweight training. In this next series of posts, I'll leave here my workouts. Bear in mind that I have not been working out a while. It has been tough to manage time between my thesis, my laziness among other things XD. 
+As I mention in my CV I love sports. I've been practicing sports since I was a young boy. Nowadays I am just swimming and doing Calisthenics, which is bodyweight training. In this next series of posts, I'll leave here my workouts. Bear in mind that I have not been working out for a while. It has been tough to manage time between my thesis, my laziness among other things XD. 
 
 Now let's begin!!
 
