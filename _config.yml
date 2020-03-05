@@ -47,7 +47,7 @@ collections:
 
 
 # BUILD SETTINGS
-markdown: GFM # kramdown
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
