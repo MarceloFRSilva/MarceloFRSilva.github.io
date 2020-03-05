@@ -26,7 +26,7 @@ Workout type | Full body workout
 
 ##### 1.  10x push ups
 
-![](gifs/push_up_gif.gif)
+![Push ups example](gifs/push_up_gif.gif)
 
 ##### 2.  5x pull ups
 ##### 3.  15x squats
