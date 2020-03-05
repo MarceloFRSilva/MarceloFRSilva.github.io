@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Workout Plan 1
-tags: [Workouts]
-author: Marcelo Silva
 img: "assets/img/workout-image.jpg"
 description: Workout Plan 1
 date: March, 5 2020
+tags: [Workouts]
 ---
 
 ![image]({{ page.img | relative_url }})
