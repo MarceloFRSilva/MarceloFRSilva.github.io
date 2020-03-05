@@ -22,15 +22,16 @@ My idea with this post is to write my workout for this next few days.
 Workout time | 25 minutes
 Workout type | Full body workout
 
-## *Workout plan
+## *Workout plan*
 
-### 1. 10 push ups
-### 2. 5 pull ups
-### 3. 15 squats
-### 4. 5 burpees with jump
-### 5. 15 secs of skipping
+#### 1. 10 push ups
+#### 2. 5 pull ups
+#### 3. 15 squats
+#### 4. 5 burpees with jump
+#### 5. 15 secs of skipping
 
-Repeat everything 3 times and that is it! Between sets, I rest for about 1 minute.
+### Repeat everything 3 times and that is it! 
+### Between sets, I rest for about 1 minute.
 
 ----
 See you soon, **thank you!**  
