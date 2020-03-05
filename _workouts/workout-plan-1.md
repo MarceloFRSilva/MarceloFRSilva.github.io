@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workout Plan 1
-img: "assets/img/workout-image.jpg"
+img: "assets/img/workout-calisthenics-image.jpg"
 description: Workout Plan 1
 date: March, 5 2020
 tags: [Workouts]
