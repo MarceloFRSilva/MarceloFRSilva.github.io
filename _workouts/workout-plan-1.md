@@ -25,9 +25,6 @@ Workout type | Full body workout
 ## *Workout plan*
 
 ##### 1.  10x push ups
-
-[Push ups example](https://giphy.com/gifs/exercise-fitness-12NUWErJ3szNC0/fullscreen)
-
 ##### 2.  5x pull ups
 ##### 3.  15x squats
 ##### 4.  5x burpees with jump
