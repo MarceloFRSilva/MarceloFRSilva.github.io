@@ -41,6 +41,9 @@ collections:
   tutorials:
     output: true
     permalink: /:collection/:name
+  workouts:
+    output: true
+    permalink: /:collection/:name
 
 # BUILD SETTINGS
 markdown: kramdown
