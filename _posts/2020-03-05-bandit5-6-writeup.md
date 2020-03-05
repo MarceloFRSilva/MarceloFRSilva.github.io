@@ -14,7 +14,7 @@ tags: [Bandit, 3 Bit Squad, CTF]
 ## Hello everyone!
 
 
-In this post I'll present my solution to the Bandit Level 5. Soon I'll be publishing the solution for Bandit Level 6.
+In this post, I'll present my solution to the Bandit Level 5. Soon I'll be publishing the solution for Bandit Level 6.
 
 <!--more-->
 If you want to try it yourself before seeing the solution, here you have the URL:
@@ -46,7 +46,7 @@ To enter the level, one must do the command:
 
 
 
-Once inside lets see the home (~) folder's content with the command:
+Once inside let's see the home (~) folder's content with the command:
 
      ~$ ls
 
@@ -55,7 +55,7 @@ Once inside lets see the home (~) folder's content with the command:
 
 
 
-Now, let's see the inhere folder's content and move inside it with the command cd
+Now, let's see the inhere folder's content and move inside it with the command cd:
 
 
 
@@ -63,7 +63,7 @@ Now, let's see the inhere folder's content and move inside it with the command c
 
 
 
-Once in the folder, lets type the command ls again:
+Once in the folder, let's type the command ls again:
 
 
 
@@ -85,7 +85,7 @@ And the output we get:
 
 
 
-Which consist in a bunch of folders, now how can we find anything here, fast, without having to go to every fodler and see its content?
+Which consists of a bunch of folders, now how can we find anything here, fast, without having to go to every folder and see its content?
 
 ----
 
@@ -99,7 +99,7 @@ As we have on the challenge statement the flag is "stored in the only human-read
     ~/inhere$ find . -exec file {} +| grep ASCII
 
 
-This command, as we know, will display all of the files with ASCII text, however we still have alot of files as output, in order to narrow it down we need to insert a new restriction, lets say that we now will say that only want to see the files from the type ASCII text and with size 1033, for that I did some research and manage to find the flag -size of the find command, therefore the command with both of the restritions is:
+This command, as we know, will display all of the files with ASCII text, however, we still have a lot of them as output, to narrow it down we need to insert a new restriction, let's say that we now will only want to see the files from the type ASCII text and with size 1033, for that I did some research and manage to find the flag -size of the find command. Therefore the command with both of the restrictions is:
 
 
     ~/inhere$ find -size 1033c -exec file {} +| grep ASCII
@@ -111,7 +111,7 @@ And now we get only one output:
      ./maybehere07/.file2: ASCII text, with very long lines
 
 
-In order to make choore that we have to right file lets add the third restriciton from the challenge statement, which states that it is not an executable file, for that we will use the flag -executable as negative, like so:
+To make sure that we have the right file lets add the third restriction from the challenge statement, which states that it is not an executable file, for that we will use the flag -executable as negative, like so:
 
 
      ~/inhere$ find . -size 1033c ! -executable -exec file {} +| grep ASCII
@@ -123,7 +123,7 @@ In order to make choore that we have to right file lets add the third restricito
 
 
 
-As we can see, this is the only file that meets all 3 restrictions, now lets see if it as the flag inside it by typing the following command:
+As we can see, this is the only file that meets all three restrictions, now let's see if it as the flag inside it by typing the following command:
 
 
 
