@@ -24,10 +24,10 @@ Workout type | Full body workout
 
 ## *Workout plan*
 
-##### 1.  10 push ups
+##### 1.  10x push ups
 ##### 2.  5x pull ups
-##### 3.  15 squats
-##### 4.  5 burpees with jump
+##### 3.  15x squats
+##### 4.  5x burpees with jump
 ##### 5.  15 secs of skipping
 
 #### Repeat everything 3 times and that is it! 
