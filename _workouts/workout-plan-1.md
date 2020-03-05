@@ -25,6 +25,9 @@ Workout type | Full body workout
 ## *Workout plan*
 
 ##### 1.  10x push ups
+
+![](name-of-giphy.gif)
+
 ##### 2.  5x pull ups
 ##### 3.  15x squats
 ##### 4.  5x burpees with jump
