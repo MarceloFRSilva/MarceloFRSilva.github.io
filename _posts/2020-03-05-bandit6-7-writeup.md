@@ -72,7 +72,7 @@ And now we just get  one line as output!!
      /var/lib/dpkg/info/bandit7.password
 
 
-Lets now see in more detail the tweaks we added to the command, we did 2>&1 before grep because we want to redirect all of the output, both stdout and stderr, to the | pipe. Meaning that 2>&1 is the same as 2 outputs, stdout and stderr, to merge into 1. This is all because the pipe only reads from the stdout. And if we try to remove the errors with the grep commands like we did before but without the 2>&1 we won't be able to remove them because they won't go through the pipe.  
+Lets now see in more detail the tweaks we added to the command, we did 2>&1 before grep because we want to redirect all of the output, both stdout and stderr, to the "|" pipe. Meaning that 2>&1 is the same as 2 outputs, stdout and stderr, to merge into 1. This is all because the pipe only reads from the stdout. And if we try to remove the errors with the grep commands like we did before but without the 2>&1 we won't be able to remove them because they won't go through the pipe.  
 
 ----
 
