@@ -121,7 +121,7 @@ As we have on the challenge statement the flag is "stored in the only human-read
 
    Here I leave an image:
 
-![GitHub Logo](/images/bandi5image.png)
+![GitHub Logo](/images/bandit5image.png)
 
 
 
