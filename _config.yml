@@ -44,10 +44,10 @@ collections:
   workouts:
     output: true
     permalink: /:collection/:name
-    markdown: GFM
+
 
 # BUILD SETTINGS
-markdown: kramdown
+markdown: GFM # kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
