@@ -30,8 +30,9 @@ Workout type | Full body workout
 #### 4. 5 burpees with jump
 #### 5. 15 secs of skipping
 
-### Repeat everything 3 times and that is it! 
-### Between sets, I rest for about 1 minute.
+##### Repeat everything 3 times and that is it! 
+
+Between sets, I rest for about 1 minute.
 
 ----
 See you soon, **thank you!**  
