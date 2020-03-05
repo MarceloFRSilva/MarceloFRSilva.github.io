@@ -1,20 +1,29 @@
-Hello everyone!
+---
+layout: post
+title: Bandit Level 5 → Level 6
+author: Marcelo Silva
+img: "assets/img/bandit-image.jpg"
+excerpt_separator: <!--more-->
+tags: [Bandit, 3 Bit Squad, CTF]
+---
+
+![image]({{ page.img | relative_url }})
+
+
+
+## Hello everyone!
 
 
 In this post I'll present my solution to the Bandit Level 5. Soon I'll be publishing the solution for Bandit Level 6.
 
-
-
+<!--more-->
 If you want to try it yourself before seeing the solution, here you have the URL:
 
 
-https://overthewire.org/wargames/bandit/
+[https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)
 
 
-
-When we start we are presented with the following statement: 
-
-
+**When we start we are presented with the following statement:**
 
 The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
 
@@ -22,7 +31,7 @@ human-readable
 1033 bytes in size
 not executable
 
-*My solution*
+## *My solution*
 
 
 To enter the level, one must do the command: 
@@ -32,7 +41,8 @@ To enter the level, one must do the command:
 
      With the password, which is the flag from the previous level.
     
-And we are in!     
+
+## *And we are in!*     
 
 
 
@@ -61,7 +71,7 @@ Once in the folder, lets type the command ls again:
 
 
 
-     And the output we get:
+And the output we get:
 
 
 
@@ -111,7 +121,7 @@ As we have on the challenge statement the flag is "stored in the only human-read
 
    Here I leave an image:
 
-
+![GitHub Logo](/images/bandit5image.png)
 
 
 
@@ -124,3 +134,14 @@ As we have on the challenge statement the flag is "stored in the only human-read
 
 
 And after this command the flag appears:
+
+<details>
+  <summary>And the printed flag is: </summary>
+     {% highlight text %} DXjZPULLxYr17uwoI01bNLQbtFemEgo7 {% endhighlight text %}
+</details> 
+
+----
+See you soon, **thank you!**  
+Cheers  
+*Marcelo Silva*
+
