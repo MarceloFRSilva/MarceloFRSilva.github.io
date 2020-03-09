@@ -44,6 +44,9 @@ collections:
   workouts:
     output: true
     permalink: /:collection/:name
+  notes:
+    output: true
+    permalink: /:collection/:name
 
 
 # BUILD SETTINGS
