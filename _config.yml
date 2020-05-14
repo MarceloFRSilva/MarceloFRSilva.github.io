@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://marcelofrsilva.github.io"
+url: "https://marceloregra.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Marcelo Silva                                    # site's title
@@ -13,6 +13,14 @@ header_text: My Personal Portfolio
 header_feature_image: assets/img/pexels/codingimage.jpg
 footer_text: >
   Follow my work on <a href="https://github.com/MarceloFRSilva">github</a>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "{{site.google_ad_client}}",
+    enable_page_level_ads: true
+  });
+</script>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
