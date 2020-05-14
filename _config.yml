@@ -15,6 +15,7 @@ footer_text: >
   Follow my work on <a href="https://github.com/MarceloFRSilva">github</a>
 
 data_ad_client: ca-pub-4284376746001339
+enable_page_level_ads: true
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
