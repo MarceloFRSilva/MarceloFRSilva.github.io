@@ -14,13 +14,7 @@ header_feature_image: assets/img/pexels/codingimage.jpg
 footer_text: >
   Follow my work on <a href="https://github.com/MarceloFRSilva">github</a>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "{{site.google_ad_client}}",
-    enable_page_level_ads: true
-  });
-</script>
+data_ad_client: ca-pub-4284376746001339
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
